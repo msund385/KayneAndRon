@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\bin\Debug\netcoreapp3.1\KayneAndRon.exe
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\bin\Debug\netcoreapp3.1\KayneAndRon.deps.json
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\bin\Debug\netcoreapp3.1\KayneAndRon.runtimeconfig.json
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\bin\Debug\netcoreapp3.1\KayneAndRon.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\bin\Debug\netcoreapp3.1\KayneAndRon.dll
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\bin\Debug\netcoreapp3.1\KayneAndRon.pdb
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\obj\Debug\netcoreapp3.1\KayneAndRon.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\obj\Debug\netcoreapp3.1\KayneAndRon.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\obj\Debug\netcoreapp3.1\KayneAndRon.AssemblyInfo.cs
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\obj\Debug\netcoreapp3.1\KayneAndRon.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\obj\Debug\netcoreapp3.1\KayneAndRon.csproj.CopyComplete
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\obj\Debug\netcoreapp3.1\KayneAndRon.dll
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\obj\Debug\netcoreapp3.1\KayneAndRon.pdb
+C:\Users\Michael\source\repos\KayneAndRon\KayneAndRon\obj\Debug\netcoreapp3.1\KayneAndRon.genruntimeconfig.cache
